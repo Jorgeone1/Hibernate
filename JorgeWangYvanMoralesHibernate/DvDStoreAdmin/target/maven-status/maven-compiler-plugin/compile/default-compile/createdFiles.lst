@@ -1,0 +1,5 @@
+com\mycompany\dvdstoreadmin\DvDStoreAdmin.class
+com\mycompany\dvdstoreadmin\hibernateUtil.class
+com\mycompany\dvdstoreadmin\Actor.class
+com\mycompany\dvdstoreadmin\ActorViewer.class
+com\mycompany\dvdstoreadmin\ActorViewer$1.class
